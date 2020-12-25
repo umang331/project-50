@@ -1,0 +1,76 @@
+  .head{
+      
+    background-color:white;
+    border:solid;
+     }
+  
+  .grid {
+  /*  background: darkred;*/
+    display: flex;
+   /* background-color: #F0F8FF;*/
+    justify-content: last baseline;
+    flex-direction: row;
+    text-align: left;
+    flex-wrap: wrap;
+  }
+  
+  .camel {
+    border: 1px solid black;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    width: 200px;
+    height: 500px;
+    padding: 50px;
+    background-color:#E8E5E4;
+  }
+  
+  
+  .chameleon {
+    border: 1px solid black;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    width: 200px;
+    height: 500px;
+    padding: 50px;
+    background-color:#E8E5E4;
+  }
+  
+  .cicada {
+    border: 1px solid black;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    width: 200px;
+    height: 500px;
+    padding: 50px;
+    background-color:#E8E5E4;
+  }
+  
+  .panda {
+    border: 1px solid black;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    width: 200px;
+    height: 500px;
+    padding: 50px;
+    background-color:#E8E5E4;
+  }
+  
+  .pigeon {
+    border: 1px solid black;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    width: 200px;
+    height: 500px;
+    padding: 50px;
+    background-color:#E8E5E4;
+  }
+  
+  .teddy {
+    border: 1px solid black;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    width: 200px;
+    height: 500px;
+    padding: 50px;
+    background-color:#E8E5E4;
+  }
